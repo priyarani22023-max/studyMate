@@ -1,0 +1,7 @@
+{
+  "name": "OpenBuddy",
+  "description": "A privacy-first personal AI companion powered by open-weight AI for studying, planning, journaling, and everyday friendship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
